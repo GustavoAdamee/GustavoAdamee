@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo Adame</h1>
 <h3 align="center">Estudante de engenharia da computação na UTFPR em curitiba-pr</h3>
 
-- 🔭 I’m currently working on EJUD **SIGA**
+- 🔭 I’m currently working on an academic system for "Escola Judicial do Paraná"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
