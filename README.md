@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo Adame</h1>
 <h3 align="center">Estudante de engenharia da computação na UTFPR em curitiba-pr</h3>
 
-- 🔭 I’m currently building an academic system for "Escola Judicial do Paraná"
+- 🔭 I am currently in an internship at Bairru
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoAdamee&show_icons=true&theme=tokyonight)
