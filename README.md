@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gustavo Adame</h1>
 <h3 align="center">Computer Engineering student at UTFPR in Curitiba, Paraná, Brazil.</h3>
-
-- 📫 How to reach me **https://www.linkedin.com/in/gustavo-adame-a319581a5/**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
