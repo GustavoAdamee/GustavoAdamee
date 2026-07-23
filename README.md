@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gustavo Adame</h1>
-<h3 align="center">Computer Engineering student at UTFPR in Curitiba, Paraná, Brazil.</h3>
+<h3 align="center">Engineer Manager at Tractian</h3>
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
